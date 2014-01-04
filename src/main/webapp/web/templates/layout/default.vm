@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    #showHead ("InfiniteCoin crypto-currency")
+##    <meta http-equiv="content-type" content="text/html; charset=GBK" />
+</head>
+
+<body #bodyAttributes ()>
+
+    $screen_placeholder
+
+##<hr/>
+##<p>[<a href="$webLink.setTarget("index")">Home</a>] [<a href="$webLink">Dev Home</a>]</p>
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer">
+        Copyright @ 2013 InfiniteCoin website developers<br/>
+        Donate for InfiniteCoin website developing: iKmev38k4CLVeNo2H2HQhivsbmXTXzWrVQ
+        <div class="cleaner"></div>
+    </div>
+</div>
+<div align="center">
+    <span style="color: #999999;font-size: 12px"></span>&nbsp;
+    <script src="http://s14.cnzz.com/stat.php?id=5562999&web_id=5562999&show=pic" language="JavaScript"></script>
+</div>
+</body>
+</html>

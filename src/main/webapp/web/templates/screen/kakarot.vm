@@ -1,0 +1,68 @@
+
+<html>
+<head>
+    <style type="text/css">
+        .btnG{
+            height:28px;
+            /*background-img("http://www.google.com/images/logos/google_logo_41.png");*/
+        }
+        .paddingdiv{
+            padding: 5px;
+            font-family:Arial;
+            font-size: 13px;
+        }
+    </style>
+    <script type="text/javascript">
+    function goto_tieba(kw){
+        var url = "http://tieba.baidu.com/f?kw="+kw+"&ie=utf-8&";
+        window.location.href(url);
+    }
+    </script>
+</head>
+
+
+<body>
+
+<div align="center" id="search">
+    <!--卡卡罗特 - kakarot from vegeta planet <br/>-->
+    <!--<img src="http://db.ga-la.com/photo/uploadphotos/200810/20081005104910325.jpg" ></img>-->
+    <div style="height:0px" ></div>
+    <img style="height:200px" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSWJNPfUJGjQW65VTkTLI_PD1xE7KFtN_XX3ayfLyktX4YbJGgCg" /><br/>
+    <form method=get action="http://www.google.com/search" target="_blank">
+        <table bgcolor="#FFFFFF"><tr>
+            <td >
+                <!--<img src=" http://www.google.com/logos/Logo_25wht.gif" border="0"  align="middle"/>-->
+                <img src=" http://www.google.com/images/logos/google_logo_41.png" border="0" alt="Google" align="middle"/>
+                <input type="hidden" name="hl" value="zh-CN" />
+                <input style="height:28px" type=text name=q size=60 maxlength=255 value="">
+                <input class="btnG" type=submit name=btnG value="Google Search" />
+            </td>
+        </table>
+    </form>
+</div>
+
+<div style="height:10px"></div>
+<table align="center">
+    <tr>
+        <td style="width:300px; text-align:center">
+            <a href="/line.htm" target="_blank">line</a> <br/><br/>
+            <a href="/basic_column.htm" target="_blank">basic column</a>
+        </td>
+        <td width="300px">
+            <div>
+                <a href="/webx_framework.htm" target="_blank">webx framwork</a><br/><br/>
+                <a href="http://blog.csdn.net/caiqcong" target="_blank">caiqcong's blog</a>
+            </div>
+        </td>
+    </tr>
+
+</table>
+
+<div style="height: 200px"></div>
+<div align="center">
+    <span style="color: #999999;font-size: 12px">ICP备:人艰不拆！</span>&nbsp;
+    <script src="http://s14.cnzz.com/stat.php?id=5562999&web_id=5562999&show=pic" language="JavaScript"></script>
+</div>
+</body>
+
+</html>

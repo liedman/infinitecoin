@@ -1,1 +1,2 @@
-what the fuck
+@copyright caiqcong 
+infinitecoin website

@@ -1,0 +1,231 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>InfiniteCoin crypto-currency</title>
+    <meta name="keywords" content="InfiniteCoin,cryptocurrency,cryptocoin,bitcoin,quarkcoin,crypto" />
+    <meta name="description" content="InfiniteCoin crypto-currency" />
+
+    <link href="asset/css/templatemo_style.css" rel="stylesheet" type="text/css" />
+    <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js'></script>
+    <script type='text/javascript' src='asset/js/logging.js'></script>
+
+    <script language="javascript" type="text/javascript">
+        function clearText(field)
+        {
+            if (field.defaultValue == field.value) field.value = '';
+            else if (field.value == '') field.value = field.defaultValue;
+        }
+    </script>
+</head>
+<body>
+<div id="templatemo_body_wrapper">
+<div id="templatemo_wrapper">
+
+<div id="templatemo_hefader">
+
+    <div id="site_title"><h1><a>InfiniteCoin crypto-currency</a></h1></div>
+
+    <!--
+    <div id="search_box">
+        <form action="#" method="get">
+            <input type="text" value="Search" name="q" size="10" id="searchfield" title="searchfield" onfocus="clearText(this)" onblur="clearText(this)" />
+        </form>
+    </div>
+    -->
+
+</div> <!-- end of templatemo header -->
+
+<div id="templatemo_menu">
+    <ul>
+        <li><a href="index.html" class="current">Home</a></li>
+        <!--
+        <li><a href="news.html">Latest News</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html" class="last">Contact</a></li>
+        -->
+        <li><a class="last">&nbsp;</a></li>
+    </ul>
+</div> <!-- end of templatemo_menu -->
+
+<div id="templatemo_middle">
+
+    <a target="_parent"><img src="asset/img/ifc_logo_256x256.png" alt="Quark" /></a>
+
+    <div id="mid_title">
+        Welcome to InfiniteCoin</div>
+
+    <p>Infinitecoin - a fork of Litecoin version. Like Litecoin it uses scrypt as a proof of work scheme.
+
+        - Total coins will be about 90,600 millions
+        - 30 sec block target
+        - Difficulty retargets once every hour
+        - initially 524,288 (2^19) coins per block, halves every 1 month (86,400 blocks).
+        - The default ports are 9321(connect) and 9322(json rpc).</p>
+
+    <!-- <div id="learn_more"><a href="#"></a></div> -->
+
+    <div class="cleaner"></div>
+
+</div> <!-- end of middle -->
+
+<div id="templatemo_fp_services">
+
+    <div class="fp_services_box">
+        <div class="fps_title"><a href="#">Download</a></div>
+        <p>Download the offical InfiniteCoin wallet.</p>
+        <a href="http://www.infiniteco.in/client185/infinitecoin-1.8.5-win32.zip" class="sb_more">Windows</a>
+        <a href="http://www.infiniteco.in/client185/Infinitecoin-Qt-1.8.5.dmg" class="sb_more">Mac OSX</a>
+    </div>
+
+    <div class="fp_services_box">
+        <div class="fps_title"><a href="#">Exchange</a></div>
+        <p>Buy and sell InfiniteCoin on a crypto-currency exchange.</p>
+        <a href="http://bter.com/trade/ifc_cny" target="_parent" class="sb_more">BTER</a>
+        <a href="https://www.coins-e.com/exchange/IFC_LTC/" target="_blank" class="sb_more">Coins-E</a>
+        <a href="https://www.cryptsy.com/markets/view/60" target="_blank" class="sb_more">Cryptsy</a>
+    </div>
+
+    <div class="fp_services_box l_box">
+        <div class="fps_title"><a href="#">Merchants</a></div>
+        <p>Accept payments for your goods and services in InfiniteCoin.</p>
+        <a href="https://coinpayments.net/" class="sb_more">More</a>
+    </div>
+
+</div> <!-- end of templatemo fp services -->
+
+<div id="templatemo_main">
+
+    <div class="col_w620 float_r">
+        <!-- <img src="images/templatemo_image_01.jpg" class="image_wrapper image_fr" alt="banner" /> -->
+
+        <h2>Links</h2>
+
+        <table width="100%"> <tr valign="top"><td>
+
+            <p><b>Downloads</b></p>
+
+            <p align="justify">
+                <a href="http://www.infiniteco.in/client185/infinitecoin-1.8.5-win32.zip" target="_blank">Windows wallet</a><br/>
+                <a href="http://www.infiniteco.in/client185/Infinitecoin-Qt-1.8.5.dmg" target="_blank">Mac OSX wallet</a><br/>
+                <a href="http://www.infiniteco.in/client185/infinitecoin-1.8.5-linux.tar.tar.xz" target="_blank">Linux wallet</a><br/>
+                <a href="https://github.com/infinitecoin/infinitecoin" target="_blank">GitHub source code</a><br/>
+            </p>
+
+            <p><b>Exchanges</b></p>
+
+            <p align="justify">
+                <a href="https://www.cryptsy.com/markets/view/60" target="_blank">Cryptsy</a><br/>
+                <a href="https://www.coins-e.com/exchange/IFC_LTC/" target="_blank">Coins-E</a><br/>
+                <a href="http://bter.com/trade/ifc_cny" target="_blank">BTER</a><br/>
+            </p>
+
+            <p><b>Block explorers</b></p>
+
+            <p align="justify">
+                <a href="http://infinitecoin.com/blocks/" target="_blank">Block Explorer 1</a><br/>
+                <a href="http://exploretheblocks.com:2750/" target="_blank">Block Explorer 2</a><br/>
+                <a href="http://coinbomb.biz/ifcblocks/" target="_blank">Block Explorer 3</a><br/>
+
+            </p>
+
+        </td><td>
+
+            <p><b>Services</b></p>
+
+            <p align="justify">
+                <a href="https://coinpayments.net/" target="_blank">CoinPayments payment processing</a><br/>
+            </p>
+
+            <p><b>Mining pools</b></p>
+
+            <p align="justify">
+                <a href="http://p2pool.org/" target="_parent">p2pool</a><br/>
+                <a href="http://treasurequarry.com:9844" target="_blank">treasurequarry</a><br/>
+                <a href="https://coinex.pw/mining/pools/IFC" target="_blank">coinex.pw</a><br/>
+                <a href="http://ifc.scryptmining.com/" target="_blank">scryptmining</a><br/>
+            </p>
+
+            <p><b>Forums</b></p>
+
+            <p align="justify">
+                <a href="http://www.infinitecointalk.org/" target="_blank">Offical IFC Forum</a><br/>
+                <a href="https://bitcointalk.org/index.php?topic=356065.0" target="_parent">IFC Thread on BitcoinTalk</a><br/>
+                <a href="https://cryptocointalk.com/forum/211-infinitecoin-ifc/" target="_parent">Cryptocoin Talk</a><br/>
+            </p>
+
+            <p><b>Blog</b></p>
+
+            <p align="justify">
+                <a href="http://www.infinitecointalk.org/" target="_blank">InfiniteCoin</a><br/>
+            </p>
+
+        </td></tr> </table>
+
+        <div class="cleaner h10"></div>
+
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="col_w300 float_l">
+        <h2> Latest Updates</h2>
+
+        <div class="fp_news_box">
+            <img src="asset/img/ifc_logo_64x64.png" alt="News" style="padding-bottom: 8px" />
+            <h6><a class="no_link">new wallet released</a></h6>
+            new version wallet 1.8.5 avaliable
+            <div class="fp_news_date">5 Dec 2013</div>
+            <div class="cleaner"></div>
+        </div>
+
+        <div class="fp_news_box">
+            <img src="asset/img/ifc_logo_64x64.png" alt="News" style="padding-bottom: 8px" />
+            <h6><a class="no_link">Web site launched</a></h6>
+            A new web site for InfiniteCoin is launched.
+            <div class="fp_news_date">26 Oct 2013</div>
+            <div class="cleaner"></div>
+        </div>
+
+        <div class="fp_news_box">
+            <img src="asset/img/ifc_logo_64x64.png" alt="News" style="padding-bottom: 32px" />
+            <h6><a class="no_link">Payment processing</a></h6>
+            <a href="https://coinpayments.net/">CoinPayments</a>, a payment processing site for merchants, now accepts InfiniteCoin as payment.
+            <div class="fp_news_date">19 Oct 2013</div>
+            <div class="cleaner"></div>
+        </div>
+
+        <!--
+            <div class="fp_news_box">
+            	<img src="images/templatemo_image_04.jpg" alt="News Three" />
+                <h6><a href="#">Pellentesque consequaxxxxst</a></h6>
+                Pellentesque lectus justo, fermentum in, ornare vitae, vehicula eu, felis.
+                <div class="fp_news_date">June 22, 2048</div>
+                <div class="cleaner"></div>
+            </div>
+        -->
+
+        <!--
+          	<a class="more" href="#">View All</a>
+        -->
+    </div>
+
+    <div class="cleaner"></div>
+</div> <!-- end of main -->
+<div id="templatemo_main_bottom"></div>
+<div class="cleaner"></div>
+</div> <!-- end of templatemo wrapper -->
+</div> <!-- end of templatemo body wrapper -->
+
+
+    <div style="margin: auto;" align="center">
+        <a title="facebook" href="https://www.facebook.com/Infinitecoin" target="_blank"><img src="asset/ico/32x32/facebook.png" /></a>
+        <a title="twitter" href="https://twitter.com/InfinitecoinIFC" target="_blank"><img src="asset/ico/32x32/twitter.jpg" /></a>
+        <a title="youtube" href="http://www.youtube.com/user/infinitecoin/videos" target="_blank"><img src="asset/ico/32x32/youtube.png" /></a>
+        <a title="weibo" href="http://weibo.com/infinitecoinchina" target="_blank"><img src="asset/ico/32x32/weibo.png" /></a>
+        <a title="baidu" href="http://tieba.baidu.com/f?kw=%CE%DE%CF%DE%B1%D2&fr=ala0" target="_blank"><img src="asset/ico/32x32/baidu.png" /></a>
+        <a title="youku" href="http://u.youku.com/Infinitecion" target="_blank"><img src="asset/ico/32x32/youku.png" /></a>
+    </div>
+</body>
+</html>
